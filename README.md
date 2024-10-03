@@ -1,12 +1,3 @@
-
-# 🍌 Banana Bonanza Bot
-
-Yo, welcome to the Banana Bonanza Bot! 🍌 This script is the ultimate game-changer for all you banana enthusiasts out there, automating everything from banana claiming to ad watching. Let’s get this party started, shall we?
-
-## 💡 What’s the Deal?
-
-This bad boy hooks up to the Banana API, snags tokens, manages your bananas, and even watches ads for sweet rewards. It’s like having your own banana butler! 🥳
-
 ### 📦 Prerequisites
 
 Before you dive in, make sure you’ve got the essentials:
@@ -76,4 +67,4 @@ Got questions, feedback, or just wanna brag about your banana haul? Drop a comme
 
 ---
 
-Now, let’s get this banana bonanza rolling! 🍌✨
+
