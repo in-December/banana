@@ -64,7 +64,7 @@ def print_header():
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣯⣿⣤⣤⣤⣬⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣤⣄
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ 
     header_white = r"""
-"If this script dead, even someone born with the Sixth Eye and Limitless could die( 1/2 ).""""
+"If this script dead, even someone born with the Sixth Eye and Limitless could die( 1/2 )."
 
     print(Fore.LIGHTWHITE_EX + header_orange.strip(), end='')
     print(Fore.LIGHTWHITE_EX + header_white)
